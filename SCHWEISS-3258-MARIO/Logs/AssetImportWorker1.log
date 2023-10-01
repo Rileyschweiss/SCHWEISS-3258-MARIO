@@ -204,3 +204,19 @@ Received Import Request.
 Start importing Assets/New Material 1.mat using Guid(bba0b758cd5b74c3abe6c2fe6413b3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78846309c9a879d052e5c84cb0f0ac4') in 0.260166 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 466.344572 seconds.
+  path: Assets/deltatimefloat.asset
+  artifactKey: Guid(9e328a9f703394a158ec5af900c2213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/deltatimefloat.asset using Guid(9e328a9f703394a158ec5af900c2213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6706d27cf109f1e25a341f8902a39a') in 1.179072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 578.828756 seconds.
+  path: Assets/goforward.asset
+  artifactKey: Guid(485ee611ad15340fab08597ae6b6bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/goforward.asset using Guid(485ee611ad15340fab08597ae6b6bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875b20b7a636fb69b399b583d6aa142f') in 0.091061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

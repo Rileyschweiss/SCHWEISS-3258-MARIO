@@ -212,3 +212,139 @@ Received Import Request.
 Start importing Assets/New Material.mat using Guid(2b90ca71f005c4999b25165cd1e2c0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80965ab98ce18c962bd7cd08cf4e785') in 0.018947 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 185.613765 seconds.
+  path: Assets/capsuleplayer.asset
+  artifactKey: Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/capsuleplayer.asset using Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd3f18d89eb452b1fe919192166a958') in 0.342522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 162.224426 seconds.
+  path: Assets/deltatimefloat.asset
+  artifactKey: Guid(9e328a9f703394a158ec5af900c2213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/deltatimefloat.asset using Guid(9e328a9f703394a158ec5af900c2213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96995fa1ce25e1cdea5f639955a2eeb') in 0.071705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 118.339678 seconds.
+  path: Assets/capsuleplayer.asset
+  artifactKey: Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/capsuleplayer.asset using Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7d57f82871fd493241e64de20e327d') in 0.847936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 31.744352 seconds.
+  path: Assets/capsuleplayer.asset
+  artifactKey: Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/capsuleplayer.asset using Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b883a5ef0fa3ed0d034c36969b2a3750') in 0.026164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 331.908911 seconds.
+  path: Assets/Rotate.asset
+  artifactKey: Guid(752a0e90c5f9a4455afa2bdedb7a3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rotate.asset using Guid(752a0e90c5f9a4455afa2bdedb7a3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf914c2ea9437f762faad2503fca8ac2') in 0.017862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 10.877254 seconds.
+  path: Assets/goforward.asset
+  artifactKey: Guid(485ee611ad15340fab08597ae6b6bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/goforward.asset using Guid(485ee611ad15340fab08597ae6b6bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdbd99a612606327ca5332087b1a2091') in 0.027292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 19.998918 seconds.
+  path: Assets/sideways.asset
+  artifactKey: Guid(65b56bb727b6e4dc7b8504f2803a0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sideways.asset using Guid(65b56bb727b6e4dc7b8504f2803a0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c0d3aab9708bbc28b45028d5e44bd3') in 0.032943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9.860089 seconds.
+  path: Assets/checkground.asset
+  artifactKey: Guid(5ba47af2d11ac48f18b51eee23fd1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/checkground.asset using Guid(5ba47af2d11ac48f18b51eee23fd1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f636c1f7dada132ab7ace3adb45e9d0a') in 0.007853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 36.109967 seconds.
+  path: Assets/jump.asset
+  artifactKey: Guid(251d0af8ad4954a588105bfbf4c72cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/jump.asset using Guid(251d0af8ad4954a588105bfbf4c72cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd069f0ef32570cb4ddc918df0ff7bcd') in 0.016011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 22.408679 seconds.
+  path: Assets/increasegravity.asset
+  artifactKey: Guid(dcc377a7c1e3942eabd6f72bfa019b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/increasegravity.asset using Guid(dcc377a7c1e3942eabd6f72bfa019b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028db639a01c6a2e1869ed7aad70966f') in 0.020288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.911167 seconds.
+  path: Assets/capsuleplayer.asset
+  artifactKey: Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/capsuleplayer.asset using Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5acbfbe270ffc3a0afa33b952ef4cb6d') in 0.017377 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 111.142937 seconds.
+  path: Assets/checkground.asset
+  artifactKey: Guid(5ba47af2d11ac48f18b51eee23fd1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/checkground.asset using Guid(5ba47af2d11ac48f18b51eee23fd1d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee42774a5cae260b41a1e65cf8447cf') in 0.037560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Rotate.asset
+  artifactKey: Guid(752a0e90c5f9a4455afa2bdedb7a3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rotate.asset using Guid(752a0e90c5f9a4455afa2bdedb7a3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578532382bfd9e27f8424c99d8e1c39b') in 0.007039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/sideways.asset
+  artifactKey: Guid(65b56bb727b6e4dc7b8504f2803a0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sideways.asset using Guid(65b56bb727b6e4dc7b8504f2803a0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc0e175e160ec8e6afa156477269993') in 0.004621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/increasegravity.asset
+  artifactKey: Guid(dcc377a7c1e3942eabd6f72bfa019b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/increasegravity.asset using Guid(dcc377a7c1e3942eabd6f72bfa019b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f440b10c6ab7487899b2609c83a4362a') in 0.002025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/jump.asset
+  artifactKey: Guid(251d0af8ad4954a588105bfbf4c72cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/jump.asset using Guid(251d0af8ad4954a588105bfbf4c72cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b60d7f063bf60ef11c382ffdaf1f645') in 0.003007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 126.907402 seconds.
+  path: Assets/capsuleplayer.asset
+  artifactKey: Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/capsuleplayer.asset using Guid(6230b9a7bc454435d8195fbdea5cd993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cf8c63b1c7c08e97d879f44dce4ca8') in 0.133429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: capsuleplayer
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":285.4999,"y":-270.9995},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-226.0,"y":-558.0},"guid":"1176a1fd-804d-4bda-89db-6aeccf47b935","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-308.0,"y":-257.0},"guid":"4997fb2a-0588-4f7e-9909-9a43ba5630b2","$version":"A","$type":"Unity.VisualScripting.Update","$id":"11"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-505.0,"y":-396.0},"guid":"a217a135-a3b7-4465-b269-587868799eb6","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":319.0,"y":-244.0},"guid":"3aede942-6f3c-417a-8555-b00781e3964d","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"16"},{"nest":{"source":"Macro","macro":2,"embed":null},"defaultValues":{},"position":{"x":254.0,"y":-545.0},"guid":"f326ef1f-e923-4c9e-8a97-a5d1496bda18","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":3,"embed":null},"defaultValues":{},"position":{"x":67.0,"y":-514.0},"guid":"04ddca6e-e5a8-4ee7-bf07-809686c1308b","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"22"},{"nest":{"source":"Macro","macro":4,"embed":null},"defaultValues":{},"position":{"x":99.0,"y":-240.0},"guid":"36b13f87-13b0-4bdc-a278-b7c83001458d","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"25"},{"nest":{"source":"Macro","macro":5,"embed":null},"defaultValues":{},"position":{"x":460.0,"y":-543.0},"guid":"bd537028-38bf-4a13-98c5-dff5fefae71b","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":6,"embed":null},"defaultValues":{},"position":{"x":596.0,"y":-241.0},"guid":"5f700104-99cb-4524-a9d5-9c8e2a599815","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"outputCount":2,"defaultValues":{},"position":{"x":-128.0,"y":-264.0},"guid":"a5487eab-ecfc-4d58-aa9c-8f402bc9b8d5","$version":"A","$type":"Unity.VisualScripting.Sequence","$id":"34"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"34"},"destinationKey":"enter","guid":"05dd17a8-db0c-45af-bacb-300b8d57bbf6","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"34"},"sourceKey":"0","destinationUnit":{"$ref":"22"},"destinationKey":"in","guid":"54d62139-f045-4553-b85f-bd85a29e0f2a","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"34"},"sourceKey":"1","destinationUnit":{"$ref":"25"},"destinationKey":"in","guid":"aeb5d4ac-f612-40b2-85f0-d31ee69ff4f7","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"25"},"sourceKey":"out","destinationUnit":{"$ref":"16"},"destinationKey":"in","guid":"b2c2b464-d22e-48ea-925d-e86fa268227e","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 9e328a9f703394a158ec5af900c2213c, type: 2}
+    - {fileID: 11400000, guid: 65b56bb727b6e4dc7b8504f2803a0fcd, type: 2}
+    - {fileID: 11400000, guid: 5ba47af2d11ac48f18b51eee23fd1d5d, type: 2}
+    - {fileID: 11400000, guid: 752a0e90c5f9a4455afa2bdedb7a3c89, type: 2}
+    - {fileID: 11400000, guid: 485ee611ad15340fab08597ae6b6bb69, type: 2}
+    - {fileID: 11400000, guid: 251d0af8ad4954a588105bfbf4c72cb2, type: 2}
+    - {fileID: 11400000, guid: dcc377a7c1e3942eabd6f72bfa019b6c, type: 2}
